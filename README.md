@@ -1,4 +1,5 @@
-# ICTE
+# ICTE: IOT Energy Consumption
+
 Information communication Technology and environment is a module Taught by Dr.Ah-Lian Kor.
 
 
